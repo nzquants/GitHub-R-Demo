@@ -1,0 +1,12 @@
+name: easy_chart_maker
+title: easy_chart_maker
+username:
+account: transbig
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1558646
+bundleId: 2638635
+url: https://transbig.shinyapps.io/easy_chart_maker/
+when: 1575429537.35853
+asMultiple: FALSE
+asStatic: FALSE
